@@ -1,5 +1,4 @@
 Andy Chen
-a235chen 20778429
 OS: Windows 10 Home 64-Bit Operating System
 
 Android SDK api level 30
